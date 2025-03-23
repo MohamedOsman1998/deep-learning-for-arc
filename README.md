@@ -1,5 +1,7 @@
 # Don’t Throw the Baby Out With the Bathwater: How and Why Deep Learning for ARC
 
+Please find the paper [here](deep_learning_for_arc.pdf)
+
 ## Citation
 ```
 @misc{cole_osman_deep_learning_for_arc,
